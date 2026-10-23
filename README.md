@@ -104,5 +104,5 @@ $2.52K earnings
 ---
 
 <img src="https://raw.githubusercontent.com/c-plus-plus-equals-c-plus-one/auditing/refs/heads/output/github-contribution-grid-snake.svg" />
-* **Graduate of Sherlock’s Elite Judging Apprentice program**
+
 
