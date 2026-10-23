@@ -103,9 +103,6 @@ $2.52K earnings
 
 ---
 
-**Activities & Certifications**
-
-* **I enjoy staying at the forefront of the industry by reading new technical books. Especially books such as Cormen's Algorithms, O’Reilly’s Data Engineering Design Patterns and Klepmann’s Designing Data Intensive Applications. Currently I’m self-studying Calculus (Thomas')  and Abstract Algebra; I’m also delving into Machine Learning and Deep Learning with specific books on Pytorch, SciKit-Learn, Mathematics, Statistical Learning and NLP.**  
-* **RareSkills ZK Bootcamp [Undergraduate](https://x.com/AifosSi/status/2085050274360476022) (Groth16, Pinocchio, elliptic curves, coding ECDSA from scratch, py\_ecc, Galois library)**  
+<img src="https://raw.githubusercontent.com/c-plus-plus-equals-c-plus-one/auditing/refs/heads/output/github-contribution-grid-snake.svg" />
 * **Graduate of Sherlock’s Elite Judging Apprentice program**
 
